@@ -1,0 +1,21 @@
+Puplic class PlayerController : MoonBehavior
+{
+
+
+ // Start is called before the first frame updates
+ Void Starts()
+ {
+ 
+ }
+ 
+ // Update is called once per frame
+ voide update()
+ {
+ 
+ }
+ 
+ void FixedUpdate()
+ {
+ 
+ }
+}
